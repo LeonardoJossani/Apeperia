@@ -1,2 +1,2 @@
-# Apeperia
-Página desenvolvida na formação HTML e CSS Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
